@@ -1,0 +1,15 @@
+# 不需要部署的資料夾
+node_modules
+.vscode
+__tests__
+coverage
+cypress
+.storybook
+playwright-report
+
+# 其他本機設定檔
+.env*
+*.log
+.DS_Store
+*.local
+*.test.*
